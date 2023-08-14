@@ -1,4 +1,4 @@
-# UNI-Utility-Software
+# UNI-Utility-Software  
 
 This repository features a diverse range of my solved exercises from the **"Utility Software"** course that I took at University of Wrocław.  
 
